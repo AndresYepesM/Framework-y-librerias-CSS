@@ -1,0 +1,46 @@
+*{
+	font-family: 'Lexend Zetta', sans-serif;
+
+}
+
+small, p, a, h1, h2 , h3, h4, h5, h6, li, ul {
+	color: white;
+}
+
+body{
+  background: url(../img/fondo.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header{
+	background-color: rgba(246, 233, 32, 0.2);
+	box-shadow: 5px 5px 0px 0px rgba(246, 233, 32 ,1);
+	border: 5px solid rgba(246, 233, 32 ,0.2);
+
+}
+
+.aside{
+	background-color: rgba(32, 48, 246, 0.2);
+	box-shadow: 5px 5px 0px 0px rgba(32, 48, 246   ,1);
+	border: 5px solid rgba(32, 48, 246   ,0.2);
+}
+
+.btn{
+	background-color: rgba(182, 106, 196, 0.2);
+
+}
+
+article{
+	background-color: rgba(246, 32, 32  , 0.2);
+	box-shadow: 5px 5px 0px 0px rgba(246, 32, 32   ,1);
+	border: 5px solid rgba(246, 32, 32   ,0.2);
+}
+
+ul li{
+	background-color: rgba(182, 106, 196, 0.2);
+	box-shadow: 5px 5px 0px 0px rgba(182, 106, 196 ,1);
+	border: 5px solid rgba(182, 106, 196 ,0.2);
+}
